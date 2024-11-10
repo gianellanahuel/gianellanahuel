@@ -1,9 +1,9 @@
 Hola ❤ soy gianella
 
 
-<img src="blob:https://web.whatsapp.com/224932e4-fff1-4abd-8d3c-b089a0e72577" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<
+
 ## Lenguajes
 
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
