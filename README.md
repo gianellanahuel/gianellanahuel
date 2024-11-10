@@ -1,6 +1,7 @@
 Hola ❤ soy gianella
+blob:https://web.whatsapp.com/224932e4-fff1-4abd-8d3c-b089a0e72577
 
-![Uploading image.png…]()
+
 
 
 ## Lenguajes
