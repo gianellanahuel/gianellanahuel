@@ -8,6 +8,7 @@ Hola ¡soy gianella!💜
 
 
 
+<p
 ## Lenguajes
 
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -21,5 +22,5 @@ Hola ¡soy gianella!💜
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-
+</p>
 
